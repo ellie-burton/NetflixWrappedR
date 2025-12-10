@@ -7,11 +7,9 @@ This R project analyzes personal Netflix viewing history to uncover viewing patt
 To run this analysis, you need:
 
 1. **R** and **RStudio** installed on your computer.  
-2. The following R packages (the script will attempt to install them if missing, but it's good to have them):  
+2. The following R packages (the script will attempt to install them if missing):  
    * tidyverse (Data manipulation and plotting)  
    * lubridate (Date/Time handling)  
-   * car (Levene's Test)  
-   * FSA (Dunn's Test)  
    * ggpubr (Q-Q Plots)
 
 ## **📥 Step 1: Get Your Netflix Data**
